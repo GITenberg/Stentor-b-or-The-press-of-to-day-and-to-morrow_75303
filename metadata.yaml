@@ -1,11 +1,16 @@
 _repo: Stentor-b-or-The-press-of-to-day-and-to-morrow_75303
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75303-h/images/cover.jpg
 creator:
   author:
     agent_name: Ockham, David
     gutenberg_agent_id: '57934'
     url: http://www.gutenberg.org/2009/agents/57934
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75303#Stentor-b-or-The-press-of-to-day-and-to-morrow
 gutenberg_issued: '2025-02-06'
 gutenberg_type: Text
 identifiers:
